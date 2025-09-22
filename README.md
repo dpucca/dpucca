@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dpucca
-- 👀 I’m interested in fullstack web development using javascript, nodejs, mongodb, css and html
-- 🌱 I’m currently learning how to program restful api's in native js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Precision fullstack web development using JS, MYSQL, CSS and HTML.
+- 🌱 I specialize in RESTful API's in Node.js with minimal dependencies.
+- 💞️ Currently working on the publishing platform jplein.com.
+- 📫 If you think you have use for me, you can find me at daniel.j.pucca@proton.me
 
 <!---
 dpucca/dpucca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
